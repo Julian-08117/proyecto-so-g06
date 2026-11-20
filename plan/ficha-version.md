@@ -27,8 +27,7 @@
 |---|---|---|
 | Versión elegida y fecha de lanzamiento |(León malva(nombre clave))almalinux 10.3, fecha de lanzamiento: 16 de noviembre de 2026|https://wiki.almalinux.org/release-notes/ |
 | Hasta cuándo recibe actualizaciones de seguridad | muestra que la version tendra soporte de seguridas hasta el 31 de mayo de 2035 |https://wiki.almalinux.org/release-notes/ |
-| Requisitos de hardware y si funciona en VirtualBox |Espacio en disco: mínimo 10 GB, recomendado 20 GB
-Mínimo 1,5 GB de RAM y Se recomienda una unidad flash USB de al menos 8 GB; se recomienda una de 12 GB o más | https://wiki.almalinux.org/documentation/installation-guide.html#requirements|
+| Requisitos de hardware y si funciona en VirtualBox |Espacio en disco: mínimo 10 GB, recomendado 20 GB Mínimo 1,5 GB de RAM y Se recomienda una unidad flash USB de al menos 8 GB; se recomienda una de 12 GB o más|https://wiki.almalinux.org/documentation/installation-guide.html#requirements|
 | El instalador permite particionado manual | si lo permite,(el instalador anaconda lo permite)| https://wiki.almalinux.org/documentation/installation-guide.html|
 | Guía oficial para instalar Docker Engine |si exste guia oficial en docker para almalinux|https://docs.docker.com/engine/install/almalinux/ |
 | Si existe la imagen base del Dockerfile para esa versión (enlace a Docker Hub).|si existe|https://hub.docker.com/_/almalinux/tags |
